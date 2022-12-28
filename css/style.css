@@ -1,0 +1,14 @@
+
+.animal-show-case img {
+    margin: 8px;
+    padding: 8px;
+    width: 120px;
+    cursor: pointer;
+    display: flex !important;
+    flex-direction: column!important;
+}
+
+.chosen-animal {
+    border-radius: 8px;
+    border: 3px dashed dodgerblue;
+}
